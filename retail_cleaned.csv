@@ -1,0 +1,501 @@
+,order_id,customer_name,city,age,gender,signup_date,order_date,product_category,quantity,unit_price,total_amount,payment_method,satisfaction_score
+0,1,Maria Smith,Patras,56.0,Male,2022-04-17,2024-03-12,Clothing,4,285.46,1141.84,Cash,5
+1,2,Maria Brown,Larisa,38.0,Female,2022-08-03,2024-11-26,Electronics,7,136.52,955.64,Card,3
+2,3,Maria Papadopoulos,Thessaloniki,41.0,Male,2023-10-26,2024-05-10,Books,5,182.33,911.65,Cash,5
+3,4,Dimitris Taylor,Thessaloniki,19.0,Female,2023-01-21,2024-07-10,Books,4,281.87,1127.48,Bank Transfer,4
+4,5,John Johnson,Heraklion,38.0,Female,2022-01-22,2024-09-09,Home,1,94.75,94.75,Cash,4
+5,6,George Wilson,Athens,42.0,Male,2023-05-26,2024-06-18,Sports,1,159.81,159.81,Card,4
+6,7,Eleni Wilson,Larisa,33.0,Female,2023-11-18,2024-02-20,Electronics,7,139.54,976.78,Paypal,4
+7,8,Dimitris Brown,Heraklion,72.0,Male,2022-05-11,2024-11-02,Books,4,179.76,719.04,Bank Transfer,5
+8,9,Helen Wilson,Larisa,26.0,Male,2023-08-24,2024-11-11,Electronics,7,8.91,62.37,Card,2
+9,10,George Nikolaou,Athens,26.0,Male,2022-12-06,2024-04-01,Electronics,2,33.81,67.62,Paypal,4
+10,11,Nikos Anderson,Patras,24.0,Male,2024-07-31,2024-02-04,Home,4,151.08,604.32,Bank Transfer,1
+11,12,George Nikolaou,Athens,53.0,Male,2022-01-02,2024-02-23,Books,2,200.44,400.88,Cash,2
+12,13,Anna Anderson,Heraklion,47.0,Female,2023-02-06,2024-08-05,Books,6,14.24,85.44,Cash,4
+13,14,Eleni Smith,Thessaloniki,51.0,Male,2022-09-27,2024-12-16,Home,2,268.97,537.94,Paypal,4
+14,15,Nikos Brown,Thessaloniki,74.0,Female,2023-12-21,2024-08-24,Clothing,6,100.97,605.82,Paypal,2
+15,16,Chris Anderson,Thessaloniki,64.0,Female,2022-08-05,2024-09-08,Clothing,5,178.09,890.45,Cash,4
+16,17,Dimitris Nikolaou,Larisa,62.0,Female,2024-03-23,2024-03-05,Books,1,92.4,92.4,Paypal,1
+17,18,Eleni Papadopoulos,Thessaloniki,24.0,Female,2023-10-10,2024-03-03,Electronics,1,232.81,232.81,Unknown,3
+18,19,Maria Johnson,Thessaloniki,68.0,Female,2023-02-23,2024-10-15,Books,1,214.85,214.85,Card,3
+19,20,Chris Taylor,Larisa,22.0,Female,2022-02-10,2024-01-28,Books,2,110.75,221.5,Bank Transfer,1
+20,21,Dimitris Smith,Athens,25.0,Female,2022-02-17,2024-03-02,Home,4,102.61,410.44,Card,5
+21,22,Nikos Taylor,Thessaloniki,47.0,Female,2024-09-13,2024-02-04,Electronics,4,193.08,772.32,Bank Transfer,1
+22,23,Dimitris Johnson,Larisa,52.0,Male,2023-10-05,2024-09-13,Home,5,291.66,1458.3,Unknown,5
+23,24,Anna Wilson,Thessaloniki,43.0,Male,2024-05-20,2024-10-09,Books,7,232.44,1627.08,Bank Transfer,1
+24,25,Sophia Smith,Athens,32.0,Female,2024-06-10,2024-06-27,Home,7,37.71,263.97,Cash,1
+25,26,John Papadopoulos,Larisa,69.0,Male,2024-01-04,2024-08-18,Electronics,5,155.03,775.15,Paypal,5
+26,27,Maria Johnson,Thessaloniki,32.0,Female,2023-06-09,2024-06-08,Books,3,64.9,194.7,Cash,3
+27,28,Nikos Taylor,Thessaloniki,68.0,Male,2023-11-13,2024-02-14,Home,6,264.74,1588.44,Paypal,1
+28,29,Eleni Anderson,Larisa,70.0,Female,2023-09-12,2024-02-13,Electronics,6,139.68,838.08,Cash,4
+29,30,George Brown,Patras,47.0,Male,2023-05-21,2024-12-13,Books,6,164.11,984.66,Cash,1
+30,31,Helen Papadopoulos,Athens,56.0,Male,2023-01-12,2024-10-09,Electronics,6,37.47,224.82,Cash,1
+31,32,Maria Smith,Patras,69.0,Male,2022-12-25,2024-07-16,Books,5,258.92,1294.6,Cash,3
+32,33,Nikos Anderson,Thessaloniki,26.0,Male,2024-03-29,2024-08-21,Books,6,70.52,423.12,Paypal,4
+33,34,George Anderson,Heraklion,41.0,Male,2023-11-03,2024-04-05,Electronics,7,54.65,382.55,Card,1
+34,35,Chris Wilson,Heraklion,69.0,Female,2023-03-18,2024-02-21,Sports,1,24.14,24.14,Card,4
+35,36,Maria Smith,Heraklion,56.0,Female,2023-09-05,2024-04-22,Electronics,2,215.12,430.24,Cash,1
+36,37,George Papadopoulos,Larisa,66.0,Female,2023-07-20,2024-12-08,Clothing,2,153.29,306.58,Paypal,5
+37,38,Anna Nikolaou,Heraklion,49.0,Male,2023-09-30,2024-05-09,Electronics,1,192.13,192.13,Paypal,5
+38,39,Dimitris Brown,Athens,61.0,Male,2023-02-20,2024-09-03,Electronics,2,295.77,591.54,Cash,4
+39,40,Anna Taylor,Heraklion,72.0,Female,2023-02-05,2024-09-11,Clothing,3,114.05,342.15,Paypal,5
+40,41,John Johnson,Athens,69.0,Male,2024-06-25,2024-08-27,Sports,2,191.89,383.78,Bank Transfer,1
+41,42,Sophia Nikolaou,Heraklion,26.0,Female,2023-04-09,2024-12-14,Clothing,4,154.92,619.68,Cash,3
+42,43,Nikos Papadopoulos,Athens,37.0,Male,2023-02-07,2024-12-11,Home,4,204.88,819.52,Card,3
+43,44,John Anderson,Larisa,36.0,Male,2024-03-30,2024-05-07,Electronics,4,195.33,781.32,Card,2
+44,45,Anna Brown,Larisa,57.0,Male,2024-08-10,2024-05-30,Clothing,1,204.33,204.33,Paypal,2
+45,46,Maria Papadopoulos,Larisa,52.0,Male,2022-12-12,2024-04-21,Books,7,199.7,1397.9,Card,1
+46,47,Chris Wilson,Patras,69.0,Male,2024-06-15,2024-10-30,Home,4,81.94,327.76,Cash,4
+47,48,Nikos Taylor,Thessaloniki,22.0,Female,2022-01-09,2024-08-20,Sports,5,265.38,1326.9,Bank Transfer,3
+48,49,Maria Smith,Heraklion,36.0,Male,2022-02-23,2024-04-29,Electronics,3,257.62,772.86,Cash,1
+49,50,Dimitris Nikolaou,Thessaloniki,41.0,Female,2024-08-25,2024-04-13,Electronics,4,29.82,119.28,Cash,4
+50,51,Eleni Nikolaou,Thessaloniki,52.0,Female,2022-06-02,2024-12-14,Books,6,282.34,1694.04,Bank Transfer,2
+51,52,Helen Smith,Larisa,63.0,Female,2022-06-12,2024-07-26,Electronics,2,148.26,296.52,Cash,5
+52,53,Nikos Brown,Athens,58.0,Male,2024-03-11,2024-10-03,Home,4,215.09,860.36,Bank Transfer,4
+53,54,Helen Papadopoulos,Patras,73.0,Male,2023-10-02,2024-02-02,Home,7,217.68,1523.76,Paypal,4
+54,55,Nikos Smith,Athens,68.0,Female,2024-01-20,2024-06-06,Home,6,83.23,499.38,Card,5
+55,56,John Wilson,Thessaloniki,68.0,Female,2022-01-27,2024-08-13,Clothing,6,272.3,1633.8,Paypal,5
+56,57,Dimitris Taylor,Larisa,47.0,Male,2024-08-17,2024-11-12,Electronics,1,175.19,175.19,Card,3
+57,58,Anna Smith,Patras,21.0,Male,2023-05-27,2024-01-17,Sports,3,231.72,695.16,Cash,4
+58,59,John Nikolaou,Patras,45.0,Male,2023-01-08,2024-01-06,Home,6,286.41,1718.46,Cash,3
+59,60,George Brown,Patras,58.0,Female,2023-05-12,2024-10-28,Books,5,278.85,1394.25,Cash,5
+60,61,George Johnson,Thessaloniki,48.0,Female,2022-04-26,2024-07-09,Electronics,3,294.2,882.6,Cash,5
+61,62,Eleni Taylor,Thessaloniki,38.0,Female,2022-11-19,2024-05-07,Clothing,7,84.2,589.4,Card,2
+62,63,Chris Smith,Heraklion,42.0,Male,2023-07-24,2024-11-18,Clothing,2,281.17,562.34,Paypal,2
+63,64,Eleni Nikolaou,Thessaloniki,49.0,Male,2024-08-19,2024-05-06,Electronics,7,297.07,2079.49,Cash,3
+64,65,Chris Wilson,Patras,59.0,Male,2022-04-14,2024-10-25,Home,2,100.15,200.3,Bank Transfer,5
+65,66,Dimitris Taylor,Athens,59.0,Female,2024-03-28,2024-01-13,Electronics,7,128.84,901.88,Card,4
+66,67,Nikos Johnson,Larisa,24.0,Female,2022-01-20,2024-11-16,Electronics,1,190.23,190.23,Unknown,4
+67,68,Helen Taylor,Patras,68.0,Female,2022-12-20,2024-11-17,Sports,7,13.15,92.05,Card,3
+68,69,Chris Papadopoulos,Patras,47.0,Male,2022-05-05,2024-05-29,Sports,2,165.08,330.16,Card,2
+69,70,Dimitris Papadopoulos,Athens,39.0,Female,2024-04-17,2024-09-27,Electronics,1,16.02,16.02,Bank Transfer,3
+70,71,Helen Wilson,Athens,47.0,Female,2023-07-26,2024-04-17,Books,1,249.22,249.22,Bank Transfer,5
+71,72,Chris Wilson,Heraklion,56.0,Female,2024-09-18,2024-12-15,Books,4,253.4,1013.6,Cash,3
+72,73,George Taylor,Heraklion,72.0,Male,2023-01-05,2024-05-03,Books,4,44.16,176.64,Bank Transfer,2
+73,74,Chris Smith,Athens,47.0,Female,2024-04-10,2024-10-01,Clothing,3,239.58,718.74,Paypal,4
+74,75,Helen Wilson,Heraklion,72.0,Female,2022-04-27,2024-11-13,Sports,2,12.48,24.96,Cash,1
+75,76,Dimitris Anderson,Thessaloniki,29.0,Male,2023-09-26,2024-01-01,Home,5,22.17,110.85,Bank Transfer,2
+76,77,Maria Papadopoulos,Patras,49.0,Male,2023-08-24,2024-08-24,Clothing,6,32.69,196.14,Cash,5
+77,78,John Smith,Thessaloniki,47.0,Female,2023-03-23,2024-03-09,Books,5,222.68,1113.4,Card,5
+78,79,Sophia Taylor,Larisa,72.0,Male,2023-10-18,2024-03-26,Sports,3,78.08,234.24,Paypal,1
+79,80,Chris Papadopoulos,Unknown,46.0,Male,2022-02-16,2024-04-03,Electronics,6,32.08,192.48,Paypal,4
+80,81,George Johnson,Larisa,22.0,Female,2023-04-19,2024-12-06,Electronics,4,10.06,40.24,Cash,4
+81,82,Maria Anderson,Thessaloniki,50.0,Female,2022-01-23,2024-09-06,Books,6,132.99,797.94,Bank Transfer,2
+82,83,Sophia Taylor,Larisa,71.0,Female,2022-06-29,2024-08-10,Clothing,5,266.57,1332.85,Paypal,2
+83,84,Sophia Nikolaou,Thessaloniki,36.0,Female,2022-11-21,2024-01-04,Books,2,152.81,305.62,Paypal,2
+84,85,George Nikolaou,Heraklion,66.0,Male,2023-04-20,2024-12-05,Home,4,177.8,711.2,Cash,4
+85,86,Nikos Wilson,Patras,67.0,Male,2024-07-17,2024-06-27,Clothing,3,194.77,584.31,Cash,3
+86,87,George Taylor,Athens,54.0,Male,2023-02-21,2024-06-16,Electronics,4,118.9,475.6,Paypal,2
+87,88,Chris Wilson,Larisa,60.0,Female,2022-01-12,2024-04-04,Sports,4,85.82,343.28,Card,2
+88,89,George Taylor,Heraklion,68.0,Male,2024-04-28,2024-03-30,Books,2,206.49,412.98,Paypal,5
+89,90,Sophia Smith,Patras,43.0,Female,2023-02-22,2024-04-24,Sports,2,11.87,23.74,Paypal,1
+90,91,Dimitris Papadopoulos,Heraklion,24.0,Male,2023-09-18,2024-03-15,Home,4,209.4,837.6,Paypal,5
+91,92,Sophia Smith,Heraklion,73.0,Female,2024-01-31,2024-06-12,Sports,4,128.29,513.16,Cash,2
+92,93,Sophia Johnson,Larisa,54.0,Male,2024-01-09,2024-06-25,Sports,1,172.71,172.71,Card,3
+93,94,Maria Taylor,Thessaloniki,65.0,Female,2024-09-25,2024-04-05,Clothing,4,114.75,459.0,Card,5
+94,95,Nikos Taylor,Unknown,29.0,Male,2022-10-06,2024-08-04,Sports,1,205.55,205.55,Bank Transfer,3
+95,96,Eleni Taylor,Patras,58.0,Female,2022-03-03,2024-03-24,Home,6,271.25,1627.5,Card,1
+96,97,Sophia Smith,Larisa,39.0,Male,2022-06-26,2024-04-09,Home,5,269.18,1345.9,Cash,4
+97,98,Maria Smith,Athens,58.0,Male,2023-03-31,2024-10-10,Clothing,3,31.93,95.79,Unknown,4
+98,99,Helen Johnson,Thessaloniki,36.0,Male,2024-06-03,2024-03-09,Sports,2,191.39,382.78,Card,3
+99,100,Helen Papadopoulos,Heraklion,29.0,Female,2023-04-14,2024-02-22,Home,1,168.34,168.34,Cash,1
+100,101,Helen Brown,Thessaloniki,56.0,Female,2022-07-05,2024-08-10,Electronics,5,279.62,1398.1,Card,2
+101,102,Nikos Taylor,Heraklion,22.0,Male,2022-08-23,2024-11-26,Electronics,3,266.87,800.61,Cash,2
+102,103,Maria Nikolaou,Larisa,64.0,Male,2024-08-11,2024-09-09,Books,4,207.97,831.88,Card,5
+103,104,Eleni Taylor,Patras,57.0,Male,2024-03-05,2024-05-01,Books,2,122.01,244.02,Bank Transfer,2
+104,105,John Taylor,Heraklion,22.0,Male,2022-12-05,2024-05-15,Sports,5,30.03,150.15,Bank Transfer,5
+105,106,Sophia Johnson,Heraklion,18.0,Male,2023-05-26,2024-11-22,Books,6,244.78,1468.68,Unknown,1
+106,107,Helen Anderson,Heraklion,62.0,Female,2022-09-09,2024-10-01,Books,4,108.31,433.24,Bank Transfer,5
+107,108,Eleni Papadopoulos,Athens,61.0,Female,2023-12-15,2024-12-11,Sports,6,213.0,25000.0,Cash,3
+108,109,Sophia Taylor,Patras,56.0,Male,2023-10-15,2024-08-29,Sports,6,150.32,901.92,Bank Transfer,4
+109,110,Anna Anderson,Thessaloniki,37.0,Female,2024-06-13,2024-12-26,Home,4,231.32,925.28,Bank Transfer,1
+110,111,Nikos Nikolaou,Larisa,20.0,Male,2023-05-20,2024-07-09,Books,5,75.06,375.3,Cash,4
+111,112,Maria Papadopoulos,Heraklion,66.0,Female,2024-07-22,2024-04-26,Books,1,261.24,261.24,Cash,2
+112,113,Sophia Anderson,Thessaloniki,61.0,Male,2024-04-08,2024-10-29,Electronics,5,291.11,1455.55,Bank Transfer,5
+113,114,George Taylor,Thessaloniki,33.0,Female,2024-02-03,2024-08-16,Books,6,277.77,1666.62,Bank Transfer,4
+114,115,Sophia Wilson,Heraklion,52.0,Female,2023-02-06,2024-02-16,Home,3,290.94,872.82,Paypal,1
+115,116,Nikos Nikolaou,Patras,47.0,Male,2023-05-28,2024-02-23,Electronics,6,91.88,551.28,Cash,3
+116,117,Eleni Brown,Larisa,33.0,Male,2022-01-12,2024-11-25,Clothing,7,18.41,128.87,Cash,4
+117,118,Sophia Nikolaou,Larisa,41.0,Female,2022-05-02,2024-12-13,Electronics,4,104.02,416.08,Cash,4
+118,119,Nikos Papadopoulos,Patras,43.0,Male,2023-06-24,2024-08-07,Home,2,72.67,145.34,Card,5
+119,120,Dimitris Johnson,Patras,58.0,Male,2023-05-17,2024-05-24,Electronics,4,295.93,1183.72,Bank Transfer,1
+120,121,Anna Anderson,Athens,50.0,Male,2024-01-02,2024-08-27,Books,5,245.07,1225.35,Bank Transfer,5
+121,122,Sophia Anderson,Athens,30.0,Female,2023-01-25,2024-03-22,Clothing,6,27.48,164.88,Card,3
+122,123,Nikos Anderson,Athens,22.0,Male,2022-01-10,2024-11-07,Sports,7,276.16,1933.12,Paypal,2
+123,124,Maria Smith,Thessaloniki,62.0,Male,2024-03-11,2024-03-05,Books,5,12.78,63.9,Bank Transfer,2
+124,125,Maria Papadopoulos,Athens,49.0,Female,2024-05-02,2024-10-08,Books,7,49.37,345.59,Cash,1
+125,126,Dimitris Taylor,Heraklion,39.0,Female,2023-04-06,2024-04-07,Home,3,253.43,760.29,Paypal,1
+126,127,Nikos Smith,Larisa,52.0,Male,2024-04-02,2024-01-06,Clothing,7,85.66,599.62,Cash,4
+127,128,Nikos Brown,Thessaloniki,34.0,Male,2024-05-19,2024-09-15,Clothing,5,299.92,1499.6,Card,5
+128,129,Anna Smith,Heraklion,40.0,Female,2023-12-15,2024-03-23,Books,5,219.21,1096.05,Paypal,1
+129,130,Nikos Smith,Thessaloniki,47.0,Female,2022-01-01,2024-02-20,Home,6,65.49,392.94,Paypal,5
+130,131,Maria Papadopoulos,Patras,30.0,Male,2024-05-30,2024-10-14,Sports,4,72.45,289.8,Card,2
+131,132,Dimitris Papadopoulos,Thessaloniki,45.0,Female,2022-06-03,2024-09-06,Clothing,7,38.5,269.5,Card,2
+132,133,John Johnson,Patras,71.0,Female,2022-11-02,2024-09-24,Sports,6,250.25,1501.5,Card,1
+133,134,Sophia Nikolaou,Heraklion,71.0,Female,2024-01-04,2024-09-07,Books,4,170.48,681.92,Paypal,1
+134,135,Sophia Brown,Larisa,34.0,Male,2022-07-26,2024-08-16,Sports,7,13.49,94.43,Bank Transfer,5
+135,136,Helen Nikolaou,Athens,31.0,Male,2022-04-13,2024-07-10,Clothing,2,242.49,484.98,Card,4
+136,137,Nikos Smith,Thessaloniki,51.0,Female,2024-04-29,2024-10-12,Books,6,184.39,1106.34,Paypal,3
+137,138,Nikos Johnson,Larisa,68.0,Female,2022-09-06,2024-06-14,Sports,7,219.29,1535.03,Card,1
+138,139,Sophia Wilson,Heraklion,41.0,Female,2024-01-29,2024-04-15,Home,7,121.98,853.86,Card,3
+139,140,Anna Wilson,Heraklion,34.0,Female,2022-05-18,2024-07-02,Home,5,239.96,1199.8,Paypal,1
+140,141,Dimitris Smith,Heraklion,27.0,Male,2024-09-10,2024-03-09,Home,1,81.18,81.18,Bank Transfer,2
+141,142,Eleni Brown,Heraklion,23.0,Male,2022-06-05,2024-08-22,Books,5,107.49,537.45,Unknown,3
+142,143,Chris Smith,Thessaloniki,65.0,Female,2024-01-31,2024-05-30,Books,3,27.38,82.14,Paypal,3
+143,144,Sophia Smith,Thessaloniki,71.0,Female,2023-11-27,2024-10-07,Books,4,58.65,234.6,Cash,3
+144,145,Nikos Anderson,Heraklion,49.0,Male,2023-11-03,2024-03-01,Electronics,3,156.99,470.97,Cash,2
+145,146,Anna Nikolaou,Larisa,68.0,Male,2023-04-11,2024-04-01,Books,3,247.43,742.29,Paypal,2
+146,147,Maria Papadopoulos,Athens,39.0,Female,2023-10-07,2024-08-20,Electronics,5,166.87,834.35,Cash,4
+147,148,Sophia Nikolaou,Larisa,43.0,Female,2022-03-19,2024-08-05,Sports,6,112.46,674.76,Paypal,5
+148,149,Sophia Papadopoulos,Heraklion,44.0,Male,2022-02-16,2024-04-30,Sports,1,32.23,32.23,Cash,3
+149,150,Helen Johnson,Athens,65.0,Female,2024-03-14,2024-09-13,Sports,5,5.77,28.85,Bank Transfer,1
+150,151,Dimitris Nikolaou,Athens,52.0,Female,2022-10-30,2024-05-06,Home,5,295.95,1479.75,Paypal,2
+151,152,Anna Anderson,Larisa,45.0,Female,2023-01-21,2024-12-30,Home,7,161.72,1132.04,Unknown,2
+152,153,Dimitris Taylor,Heraklion,31.0,Female,2022-07-01,2024-01-03,Clothing,3,79.47,238.41,Cash,3
+153,154,Helen Taylor,Athens,64.0,Female,2023-05-21,2024-10-20,Electronics,4,36.62,146.48,Bank Transfer,3
+154,155,Sophia Taylor,Heraklion,68.0,Male,2023-09-23,2024-01-28,Sports,7,35.94,251.58,Card,2
+155,156,Anna Wilson,Athens,56.0,Female,2022-03-27,2024-05-05,Electronics,1,253.01,253.01,Paypal,4
+156,157,John Johnson,Heraklion,42.0,Male,2022-01-25,2024-03-08,Electronics,1,106.16,106.16,Paypal,2
+157,158,Nikos Wilson,Larisa,20.0,Female,2022-04-21,2024-08-15,Electronics,1,152.04,152.04,Bank Transfer,2
+158,159,Dimitris Taylor,Patras,64.0,Female,2023-07-08,2024-04-10,Books,1,171.52,171.52,Card,4
+159,160,Helen Brown,Thessaloniki,43.0,Female,2022-11-11,2024-12-30,Clothing,2,77.08,154.16,Card,5
+160,161,Chris Brown,Athens,74.0,Female,2022-10-04,2024-07-16,Clothing,1,7.22,7.22,Bank Transfer,4
+161,162,John Smith,Patras,47.0,Male,2022-12-16,2024-04-04,Home,3,30.93,25000.0,Bank Transfer,1
+162,163,Eleni Taylor,Thessaloniki,72.0,Male,2022-09-02,2024-08-16,Books,3,159.73,479.19,Paypal,4
+163,164,Helen Johnson,Thessaloniki,41.0,Male,2023-04-13,2024-08-07,Electronics,7,269.5,1886.5,Paypal,3
+164,165,Helen Papadopoulos,Heraklion,21.0,Male,2024-05-30,2024-04-03,Clothing,7,246.04,1722.28,Paypal,3
+165,166,Nikos Anderson,Patras,74.0,Male,2023-01-27,2024-01-26,Sports,2,169.25,338.5,Bank Transfer,3
+166,167,Dimitris Johnson,Athens,62.0,Female,2023-02-14,2024-04-27,Home,4,65.5,262.0,Bank Transfer,4
+167,168,Chris Nikolaou,Heraklion,36.0,Female,2022-04-23,2024-05-19,Clothing,4,154.75,619.0,Paypal,1
+168,169,Sophia Brown,Thessaloniki,43.0,Female,2024-03-15,2024-05-18,Books,6,90.15,540.9,Bank Transfer,4
+169,170,Helen Nikolaou,Patras,30.0,Male,2024-06-20,2024-06-26,Sports,3,180.2,540.6,Bank Transfer,2
+170,171,John Smith,Larisa,47.0,Female,2024-06-16,2024-01-13,Home,7,166.93,1168.51,Cash,2
+171,172,Helen Wilson,Thessaloniki,37.0,Female,2022-11-25,2024-09-29,Books,1,45.95,45.95,Bank Transfer,1
+172,173,Anna Brown,Athens,28.0,Female,2023-02-23,2024-04-03,Sports,7,144.11,1008.77,Card,1
+173,174,Helen Wilson,Thessaloniki,22.0,Male,2024-08-03,2024-11-29,Home,6,225.06,1350.36,Bank Transfer,5
+174,175,Chris Johnson,Thessaloniki,73.0,Male,2023-08-11,2024-02-04,Books,3,281.81,845.43,Bank Transfer,1
+175,176,Dimitris Nikolaou,Thessaloniki,47.0,Male,2022-12-15,2024-11-23,Sports,6,19.19,115.14,Bank Transfer,3
+176,177,Eleni Brown,Heraklion,58.0,Male,2024-03-08,2024-10-17,Clothing,5,64.48,322.4,Cash,5
+177,178,Chris Wilson,Athens,47.0,Female,2022-03-19,2024-03-02,Electronics,5,74.53,372.65,Bank Transfer,4
+178,179,Dimitris Brown,Heraklion,42.0,Female,2023-02-06,2024-10-22,Home,5,178.55,892.75,Paypal,3
+179,180,Eleni Brown,Thessaloniki,55.0,Female,2022-05-23,2024-06-01,Electronics,1,225.54,225.54,Bank Transfer,1
+180,181,Helen Papadopoulos,Athens,50.0,Female,2024-08-31,2024-11-04,Home,7,118.25,827.75,Paypal,3
+181,182,Maria Johnson,Athens,56.0,Male,2023-08-02,2024-06-27,Home,3,132.3,396.9,Paypal,2
+182,183,Maria Brown,Thessaloniki,69.0,Male,2022-10-16,2024-08-18,Sports,7,264.2,1849.4,Paypal,3
+183,184,Eleni Taylor,Larisa,47.0,Male,2022-04-07,2024-10-15,Sports,5,49.74,248.7,Card,4
+184,185,Sophia Taylor,Patras,39.0,Male,2023-09-27,2024-11-25,Home,2,229.93,459.86,Cash,1
+185,186,Sophia Anderson,Thessaloniki,71.0,Female,2024-03-25,2024-08-15,Electronics,6,163.26,979.56,Bank Transfer,5
+186,187,Dimitris Wilson,Athens,41.0,Female,2022-06-06,2024-05-15,Home,4,122.2,488.8,Cash,5
+187,188,Maria Anderson,Athens,46.0,Male,2023-11-16,2024-05-09,Books,7,125.64,879.48,Card,3
+188,189,John Wilson,Thessaloniki,48.0,Male,2022-10-19,2024-10-08,Books,3,209.71,629.13,Cash,3
+189,190,Maria Papadopoulos,Larisa,44.0,Male,2022-09-11,2024-11-25,Clothing,5,248.91,1244.55,Bank Transfer,2
+190,191,Anna Smith,Patras,63.0,Male,2022-05-21,2024-04-13,Clothing,3,50.24,150.72,Bank Transfer,2
+191,192,Anna Brown,Athens,42.0,Male,2024-04-07,2024-06-19,Electronics,1,10.34,10.34,Bank Transfer,4
+192,193,George Wilson,Athens,61.0,Male,2022-05-13,2024-10-19,Home,4,276.03,1104.12,Card,2
+193,194,Anna Taylor,Athens,66.0,Male,2024-06-23,2024-02-20,Electronics,4,115.46,461.84,Paypal,5
+194,195,Sophia Wilson,Larisa,47.0,Male,2023-02-11,2024-09-13,Sports,1,278.04,278.04,Cash,5
+195,196,Helen Smith,Larisa,38.0,Female,2022-07-01,2024-11-08,Sports,2,252.47,504.94,Card,1
+196,197,John Anderson,Athens,71.0,Female,2024-06-29,2024-05-28,Electronics,7,72.08,504.56,Paypal,1
+197,198,Sophia Brown,Athens,70.0,Female,2022-11-09,2024-04-26,Books,1,65.65,65.65,Cash,2
+198,199,Maria Johnson,Patras,58.0,Female,2023-06-21,2024-03-30,Sports,3,122.46,367.38,Bank Transfer,3
+199,200,Sophia Taylor,Unknown,47.0,Male,2023-04-20,2024-12-12,Books,2,142.38,284.76,Cash,1
+200,201,Chris Anderson,Thessaloniki,60.0,Female,2022-06-28,2024-06-30,Home,3,138.47,15000.0,Paypal,1
+201,202,Chris Taylor,Athens,24.0,Female,2024-05-05,2024-06-09,Sports,4,128.58,514.32,Bank Transfer,1
+202,203,Nikos Wilson,Thessaloniki,46.0,Female,2023-10-28,2024-06-04,Electronics,7,86.89,608.23,Card,2
+203,204,Maria Brown,Heraklion,38.0,Male,2022-03-25,2024-12-26,Home,1,57.52,57.52,Cash,1
+204,205,Dimitris Smith,Larisa,37.0,Female,2022-03-04,2024-07-07,Electronics,6,258.89,1553.34,Paypal,1
+205,206,Eleni Taylor,Athens,24.0,Female,2024-09-16,2024-08-02,Books,1,96.43,96.43,Bank Transfer,3
+206,207,Eleni Brown,Larisa,73.0,Male,2023-11-01,2024-10-11,Clothing,3,108.07,324.21,Paypal,1
+207,208,George Brown,Patras,47.0,Female,2023-02-28,2024-01-19,Electronics,5,144.26,721.3,Bank Transfer,2
+208,209,Helen Papadopoulos,Heraklion,18.0,Male,2022-07-13,2024-04-22,Books,6,215.65,1293.9,Bank Transfer,2
+209,210,John Johnson,Unknown,47.0,Female,2023-10-06,2024-09-20,Home,6,230.78,1384.68,Bank Transfer,5
+210,211,John Johnson,Thessaloniki,72.0,Female,2024-02-17,2024-06-10,Electronics,7,227.21,1590.47,Cash,4
+211,212,John Brown,Larisa,50.0,Male,2024-03-10,2024-06-26,Sports,7,293.78,2056.46,Paypal,5
+212,213,Sophia Wilson,Thessaloniki,25.0,Female,2024-04-14,2024-09-11,Home,1,167.76,167.76,Bank Transfer,5
+213,214,Helen Brown,Athens,25.0,Male,2022-08-17,2024-03-07,Clothing,6,105.09,630.54,Card,3
+214,215,Maria Nikolaou,Heraklion,50.0,Female,2023-02-22,2024-10-17,Sports,4,75.26,301.04,Paypal,3
+215,216,Chris Nikolaou,Thessaloniki,33.0,Male,2022-07-01,2024-08-10,Home,4,283.6,1134.4,Paypal,2
+216,217,Maria Nikolaou,Larisa,24.0,Female,2022-05-31,2024-03-25,Books,2,30.23,60.46,Bank Transfer,3
+217,218,John Papadopoulos,Heraklion,65.0,Male,2022-10-12,2024-07-06,Electronics,5,263.55,1317.75,Cash,2
+218,219,Nikos Papadopoulos,Thessaloniki,19.0,Female,2024-07-04,2024-01-11,Home,1,246.15,246.15,Unknown,2
+219,220,Maria Smith,Unknown,19.0,Female,2023-01-31,2024-01-20,Clothing,3,179.14,537.42,Cash,5
+220,221,Chris Papadopoulos,Larisa,54.0,Female,2024-06-23,2024-08-13,Electronics,6,233.28,1399.68,Paypal,5
+221,222,John Taylor,Athens,61.0,Female,2024-05-03,2024-12-29,Electronics,3,284.79,854.37,Bank Transfer,1
+222,223,Helen Taylor,Larisa,27.0,Female,2023-12-28,2024-05-07,Sports,6,148.79,892.74,Bank Transfer,1
+223,224,Maria Taylor,Athens,67.0,Female,2023-06-05,2024-02-09,Clothing,3,156.18,468.54,Unknown,2
+224,225,Eleni Brown,Heraklion,62.0,Male,2024-01-28,2024-10-04,Clothing,1,81.08,81.08,Paypal,3
+225,226,Helen Taylor,Larisa,63.0,Male,2022-01-29,2024-04-18,Sports,4,44.02,176.08,Bank Transfer,2
+226,227,Eleni Papadopoulos,Unknown,40.0,Male,2022-05-26,2024-05-07,Electronics,3,10.43,52.15,Card,5
+227,228,Dimitris Papadopoulos,Patras,59.0,Female,2022-02-03,2024-01-17,Clothing,4,151.94,607.76,Cash,5
+228,229,Maria Johnson,Patras,42.0,Male,2023-08-22,2024-04-26,Clothing,6,249.77,1498.62,Cash,2
+229,230,Maria Johnson,Heraklion,39.0,Female,2022-10-14,2024-05-13,Books,5,82.79,413.95,Paypal,3
+230,231,Helen Wilson,Patras,57.0,Male,2024-03-31,2024-06-21,Sports,2,182.15,364.3,Card,1
+231,232,Sophia Anderson,Patras,43.0,Female,2023-09-26,2024-02-15,Books,5,118.03,590.15,Card,2
+232,233,Eleni Brown,Patras,71.0,Female,2023-11-24,2024-10-18,Sports,3,59.39,178.17,Card,3
+233,234,John Wilson,Patras,43.0,Male,2022-10-23,2024-01-11,Electronics,5,119.84,599.2,Paypal,4
+234,235,Sophia Smith,Unknown,66.0,Male,2022-08-15,2024-11-05,Home,3,92.65,277.95,Paypal,2
+235,236,Dimitris Johnson,Athens,72.0,Female,2023-02-10,2024-03-09,Electronics,7,286.46,2005.22,Bank Transfer,1
+236,237,Maria Johnson,Athens,53.0,Male,2024-01-09,2024-08-31,Sports,7,82.37,576.59,Paypal,3
+237,238,Dimitris Johnson,Patras,34.0,Female,2023-04-27,2024-07-19,Home,6,286.79,1720.74,Paypal,2
+238,239,Chris Wilson,Larisa,19.0,Male,2022-10-23,2024-01-17,Home,3,106.59,532.95,Card,1
+239,240,Eleni Brown,Unknown,42.0,Female,2022-02-11,2024-01-25,Home,5,208.08,1040.4,Bank Transfer,3
+240,241,Helen Johnson,Patras,20.0,Male,2022-06-21,2024-04-11,Books,2,240.83,481.66,Cash,2
+241,242,Eleni Nikolaou,Heraklion,29.0,Male,2024-08-12,2024-10-31,Books,3,97.81,293.43,Card,5
+242,243,Nikos Taylor,Patras,47.0,Male,2023-05-12,2024-10-29,Books,2,208.72,417.44,Card,4
+243,244,Chris Wilson,Athens,47.0,Female,2023-10-23,2024-03-21,Home,3,221.01,663.03,Cash,5
+244,245,George Wilson,Heraklion,71.0,Male,2023-04-11,2024-03-29,Clothing,6,294.27,1765.62,Cash,4
+245,246,Anna Brown,Patras,32.0,Male,2024-05-26,2024-01-26,Books,3,296.36,889.08,Card,2
+246,247,Eleni Johnson,Larisa,33.0,Female,2024-03-04,2024-03-26,Clothing,7,299.81,2098.67,Cash,2
+247,248,Anna Johnson,Heraklion,24.0,Male,2023-06-03,2024-05-16,Sports,6,40.55,243.3,Bank Transfer,3
+248,249,George Anderson,Larisa,65.0,Female,2023-04-22,2024-03-22,Sports,2,129.42,258.84,Cash,4
+249,250,Dimitris Papadopoulos,Patras,56.0,Female,2023-05-05,2024-04-12,Clothing,3,99.13,297.39,Bank Transfer,1
+250,251,Helen Anderson,Heraklion,31.0,Female,2023-09-12,2024-07-06,Sports,7,112.59,788.13,Paypal,5
+251,252,Anna Papadopoulos,Larisa,51.0,Male,2024-07-24,2024-07-01,Home,3,210.41,631.23,Card,4
+252,253,Sophia Wilson,Larisa,56.0,Male,2023-05-31,2024-12-14,Books,7,242.17,1695.19,Card,1
+253,254,Nikos Brown,Thessaloniki,30.0,Male,2023-05-08,2024-04-17,Sports,2,158.45,316.9,Cash,2
+254,255,Chris Brown,Thessaloniki,72.0,Male,2023-02-18,2024-09-07,Home,3,261.68,785.04,Card,5
+255,256,Chris Smith,Heraklion,30.0,Female,2024-01-09,2024-02-08,Clothing,2,282.02,564.04,Paypal,4
+256,257,Maria Wilson,Thessaloniki,46.0,Male,2022-11-14,2024-09-01,Home,6,31.12,186.72,Card,4
+257,258,Eleni Johnson,Thessaloniki,74.0,Male,2022-09-23,2024-12-24,Home,4,295.3,1181.2,Paypal,4
+258,259,Anna Anderson,Heraklion,22.0,Male,2022-01-03,2024-05-21,Electronics,1,75.44,75.44,Card,2
+259,260,Nikos Papadopoulos,Thessaloniki,21.0,Female,2023-10-27,2024-07-11,Electronics,2,73.91,147.82,Bank Transfer,5
+260,261,George Nikolaou,Unknown,63.0,Male,2024-03-27,2024-12-09,Clothing,7,131.19,918.33,Paypal,4
+261,262,Helen Anderson,Athens,29.0,Male,2022-03-02,2024-07-16,Sports,3,285.24,855.72,Card,3
+262,263,Dimitris Papadopoulos,Thessaloniki,30.0,Female,2023-07-18,2024-09-16,Sports,2,54.28,108.56,Card,3
+263,264,Helen Wilson,Thessaloniki,25.0,Female,2022-11-06,2024-08-30,Clothing,4,252.16,1008.64,Card,5
+264,265,Dimitris Wilson,Athens,63.0,Male,2024-04-04,2024-08-05,Sports,2,18.85,37.7,Paypal,1
+265,266,John Taylor,Patras,47.0,Female,2024-02-13,2024-01-05,Electronics,2,234.98,50000.0,Bank Transfer,5
+266,267,Maria Wilson,Thessaloniki,71.0,Male,2023-06-05,2024-04-08,Books,7,68.82,481.74,Bank Transfer,4
+267,268,Anna Smith,Unknown,66.0,Female,2023-02-23,2024-06-26,Clothing,5,81.77,408.85,Paypal,2
+268,269,Sophia Johnson,Thessaloniki,34.0,Male,2024-09-24,2024-09-25,Sports,3,245.67,737.01,Card,5
+269,270,Nikos Papadopoulos,Athens,64.0,Male,2024-06-28,2024-12-22,Electronics,1,179.92,179.92,Bank Transfer,2
+270,271,Nikos Taylor,Larisa,28.0,Female,2023-09-27,2024-01-29,Home,1,120.4,120.4,Card,1
+271,272,George Nikolaou,Patras,20.0,Male,2022-06-19,2024-01-09,Home,1,256.4,256.4,Bank Transfer,1
+272,273,Maria Wilson,Heraklion,22.0,Female,2024-09-10,2024-05-03,Sports,3,30.66,91.98,Paypal,3
+273,274,Eleni Johnson,Heraklion,22.0,Female,2022-02-06,2024-11-11,Home,2,162.12,324.24,Bank Transfer,5
+274,275,Maria Taylor,Athens,45.0,Female,2022-04-24,2024-02-09,Books,5,297.49,1487.45,Cash,5
+275,276,Dimitris Nikolaou,Patras,47.0,Male,2023-11-29,2024-11-18,Electronics,6,179.76,1078.56,Bank Transfer,2
+276,277,Nikos Nikolaou,Heraklion,57.0,Female,2022-10-16,2024-09-18,Clothing,3,260.03,780.09,Paypal,3
+277,278,Eleni Anderson,Athens,47.0,Female,2023-07-25,2024-10-30,Books,4,255.92,1023.68,Paypal,1
+278,279,Nikos Smith,Athens,30.0,Female,2023-11-24,2024-06-18,Home,3,75.41,226.23,Cash,4
+279,280,John Johnson,Larisa,44.0,Female,2022-05-13,2024-08-22,Electronics,6,60.82,364.92,Cash,5
+280,281,Maria Papadopoulos,Patras,74.0,Female,2023-02-03,2024-06-08,Sports,3,264.33,792.99,Card,3
+281,282,Helen Johnson,Heraklion,70.0,Female,2022-03-23,2024-12-21,Home,6,273.07,1638.42,Paypal,2
+282,283,Maria Johnson,Larisa,31.0,Female,2022-10-22,2024-08-11,Sports,5,154.7,773.5,Bank Transfer,5
+283,284,Nikos Papadopoulos,Athens,63.0,Male,2022-01-17,2024-12-25,Clothing,3,294.45,883.35,Paypal,2
+284,285,Dimitris Taylor,Larisa,41.0,Male,2022-11-22,2024-03-14,Home,5,235.05,1175.25,Bank Transfer,1
+285,286,Sophia Papadopoulos,Larisa,49.0,Female,2023-07-26,2024-11-30,Sports,2,105.85,211.7,Cash,5
+286,287,Maria Johnson,Athens,46.0,Female,2024-05-13,2024-08-29,Clothing,6,281.48,1688.88,Paypal,4
+287,288,Maria Wilson,Patras,44.0,Male,2023-02-05,2024-07-11,Books,1,232.44,232.44,Bank Transfer,2
+288,289,Nikos Johnson,Thessaloniki,73.0,Female,2022-09-27,2024-07-10,Books,3,256.46,769.38,Cash,5
+289,290,Maria Papadopoulos,Thessaloniki,29.0,Male,2024-08-05,2024-01-07,Sports,4,196.03,784.12,Card,5
+290,291,Eleni Wilson,Heraklion,47.0,Male,2022-03-20,2024-02-27,Books,1,100.47,100.47,Card,2
+291,292,Maria Nikolaou,Heraklion,51.0,Female,2023-05-31,2024-04-08,Books,6,143.22,859.32,Unknown,5
+292,293,Chris Brown,Unknown,58.0,Female,2024-03-07,2024-06-05,Electronics,7,160.47,1123.29,Paypal,3
+293,294,Sophia Wilson,Thessaloniki,69.0,Male,2022-03-25,2024-01-22,Clothing,2,232.98,465.96,Paypal,3
+294,295,Dimitris Smith,Athens,44.0,Male,2024-01-18,2024-04-01,Home,3,285.5,856.5,Cash,5
+295,296,Anna Wilson,Thessaloniki,38.0,Female,2024-08-12,2024-03-24,Books,7,128.82,901.74,Bank Transfer,3
+296,297,Maria Nikolaou,Thessaloniki,74.0,Female,2022-09-14,2024-02-27,Clothing,5,295.27,1476.35,Bank Transfer,4
+297,298,Helen Brown,Larisa,55.0,Male,2022-06-12,2024-11-15,Books,7,225.02,1575.14,Cash,1
+298,299,Anna Wilson,Larisa,42.0,Male,2023-05-07,2024-07-26,Electronics,4,171.01,684.04,Card,3
+299,300,John Nikolaou,Thessaloniki,25.0,Female,2023-10-19,2024-04-02,Books,4,59.73,238.92,Card,5
+300,301,Sophia Nikolaou,Patras,25.0,Female,2023-07-16,2024-07-17,Clothing,7,138.84,971.88,Paypal,3
+301,302,Nikos Anderson,Athens,46.0,Male,2024-04-07,2024-02-15,Clothing,1,14.6,58.4,Paypal,1
+302,303,Chris Anderson,Heraklion,47.0,Male,2024-06-12,2024-08-23,Home,6,181.51,1089.06,Cash,4
+303,304,Eleni Wilson,Patras,53.0,Female,2024-08-13,2024-11-14,Clothing,1,64.15,64.15,Bank Transfer,5
+304,305,Dimitris Brown,Patras,70.0,Male,2023-01-30,2024-03-04,Sports,2,240.28,480.56,Card,5
+305,306,Nikos Anderson,Athens,34.0,Male,2022-11-16,2024-12-03,Electronics,5,26.37,131.85,Card,3
+306,307,Nikos Taylor,Larisa,62.0,Female,2022-04-12,2024-09-23,Clothing,1,258.74,258.74,Cash,3
+307,308,Eleni Wilson,Thessaloniki,41.0,Male,2024-06-07,2024-02-15,Sports,1,76.4,76.4,Paypal,4
+308,309,Sophia Nikolaou,Heraklion,37.0,Male,2024-07-16,2024-08-29,Electronics,1,170.1,170.1,Paypal,4
+309,310,Dimitris Anderson,Thessaloniki,50.0,Male,2024-01-15,2024-03-17,Books,2,162.6,325.2,Bank Transfer,4
+310,311,John Smith,Patras,43.0,Female,2022-06-15,2024-12-24,Books,6,100.02,600.12,Paypal,2
+311,312,Nikos Smith,Athens,63.0,Female,2024-09-20,2024-04-15,Clothing,2,241.17,482.34,Bank Transfer,4
+312,313,Eleni Taylor,Patras,66.0,Male,2023-09-27,2024-01-09,Sports,3,41.64,124.92,Card,1
+313,314,Helen Papadopoulos,Patras,56.0,Female,2023-01-05,2024-07-22,Electronics,7,164.68,1152.76,Paypal,2
+314,315,Dimitris Anderson,Larisa,45.0,Female,2022-04-21,2024-09-07,Books,6,236.11,1416.66,Card,3
+315,316,Anna Brown,Heraklion,37.0,Female,2022-01-22,2024-01-03,Home,4,181.26,725.04,Bank Transfer,1
+316,317,Anna Papadopoulos,Larisa,59.0,Female,2022-01-12,2024-03-27,Books,6,29.08,174.48,Card,4
+317,318,John Smith,Thessaloniki,30.0,Female,2022-05-02,2024-05-26,Sports,1,262.18,262.18,Paypal,4
+318,319,Anna Johnson,Patras,47.0,Female,2023-11-26,2024-10-14,Clothing,5,237.96,1189.8,Paypal,3
+319,320,Helen Nikolaou,Larisa,61.0,Female,2023-12-24,2024-05-29,Books,2,11.15,22.3,Paypal,5
+320,321,Helen Nikolaou,Heraklion,49.0,Male,2024-07-12,2024-07-20,Home,1,150.52,150.52,Bank Transfer,3
+321,322,Maria Taylor,Larisa,52.0,Female,2024-08-16,2024-07-25,Electronics,5,26.3,131.5,Paypal,1
+322,323,Nikos Papadopoulos,Athens,24.0,Female,2023-12-26,2024-06-07,Clothing,4,56.39,225.56,Paypal,2
+323,324,Anna Papadopoulos,Athens,41.0,Male,2024-01-02,2024-12-29,Clothing,4,190.49,761.96,Card,4
+324,325,Sophia Wilson,Heraklion,41.0,Male,2023-08-31,2024-04-14,Sports,2,260.77,521.54,Cash,4
+325,326,Chris Anderson,Athens,70.0,Male,2023-08-01,2024-11-30,Books,2,148.57,297.14,Cash,2
+326,327,Dimitris Wilson,Heraklion,53.0,Female,2024-01-25,2024-07-04,Home,6,198.23,1189.38,Cash,5
+327,328,Sophia Wilson,Larisa,47.0,Female,2023-07-06,2024-01-21,Home,3,188.78,566.34,Paypal,1
+328,329,George Papadopoulos,Patras,52.0,Female,2024-01-22,2024-03-27,Clothing,2,216.17,432.34,Bank Transfer,2
+329,330,Nikos Papadopoulos,Heraklion,61.0,Female,2023-01-10,2024-10-19,Sports,6,291.56,1749.36,Bank Transfer,5
+330,331,Dimitris Nikolaou,Patras,55.0,Male,2023-05-17,2024-11-11,Books,5,133.96,669.8,Paypal,5
+331,332,Chris Wilson,Thessaloniki,64.0,Female,2024-09-11,2024-03-24,Electronics,6,156.87,941.22,Bank Transfer,2
+332,333,Maria Wilson,Heraklion,56.0,Female,2024-05-06,2024-01-28,Sports,6,197.38,1184.28,Cash,2
+333,334,George Nikolaou,Larisa,52.0,Female,2023-03-25,2024-06-12,Clothing,5,7.66,38.3,Card,5
+334,335,Helen Papadopoulos,Thessaloniki,47.0,Male,2022-01-10,2024-07-13,Books,7,74.23,519.61,Cash,2
+335,336,George Smith,Athens,46.0,Female,2022-12-27,2024-09-13,Home,2,202.47,404.94,Paypal,5
+336,337,Maria Johnson,Athens,37.0,Male,2022-11-09,2024-03-04,Sports,3,284.83,854.49,Paypal,4
+337,338,Sophia Papadopoulos,Patras,45.0,Female,2023-11-18,2024-07-22,Home,1,183.63,183.63,Card,5
+338,339,Maria Papadopoulos,Larisa,47.0,Male,2024-04-03,2024-06-04,Clothing,1,213.09,213.09,Paypal,4
+339,340,Anna Smith,Heraklion,37.0,Female,2024-08-26,2024-10-19,Clothing,2,296.07,592.14,Bank Transfer,4
+340,341,John Smith,Patras,43.0,Male,2022-02-04,2024-07-16,Home,5,193.8,969.0,Bank Transfer,5
+341,342,Sophia Anderson,Thessaloniki,70.0,Female,2023-11-22,2024-07-24,Home,3,98.27,294.81,Cash,4
+342,343,Maria Wilson,Thessaloniki,59.0,Female,2022-08-04,2024-09-07,Home,4,296.06,1184.24,Cash,3
+343,344,John Wilson,Patras,51.0,Male,2022-07-04,2024-02-08,Clothing,1,193.54,193.54,Paypal,3
+344,345,Chris Wilson,Athens,67.0,Female,2024-05-01,2024-05-30,Electronics,7,201.72,1412.04,Cash,5
+345,346,Anna Anderson,Patras,69.0,Male,2023-01-10,2024-01-08,Electronics,2,64.55,129.1,Bank Transfer,2
+346,347,Chris Papadopoulos,Heraklion,38.0,Female,2023-10-31,2024-12-17,Home,1,220.59,220.59,Bank Transfer,5
+347,348,Helen Smith,Athens,47.0,Female,2022-07-12,2024-11-06,Clothing,6,80.32,481.92,Card,2
+348,349,Maria Anderson,Patras,60.0,Male,2024-09-04,2024-05-24,Sports,2,10.17,20.34,Bank Transfer,2
+349,350,Maria Nikolaou,Unknown,25.0,Male,2023-08-11,2024-11-23,Clothing,7,173.33,1213.31,Cash,1
+350,351,Sophia Johnson,Heraklion,47.0,Female,2022-05-27,2024-10-13,Sports,4,204.57,818.28,Paypal,5
+351,352,Dimitris Papadopoulos,Thessaloniki,65.0,Male,2024-08-15,2024-08-07,Books,5,175.27,876.35,Paypal,2
+352,353,Dimitris Wilson,Athens,67.0,Male,2022-06-10,2024-06-17,Electronics,6,98.84,593.04,Cash,1
+353,354,Helen Johnson,Athens,47.0,Female,2023-08-12,2024-06-07,Books,5,235.8,1179.0,Paypal,1
+354,355,Maria Papadopoulos,Larisa,28.0,Male,2022-04-12,2024-05-11,Electronics,4,196.9,787.6,Paypal,3
+355,356,John Anderson,Thessaloniki,23.0,Female,2022-10-06,2024-12-04,Sports,2,229.87,459.74,Card,5
+356,357,Dimitris Anderson,Patras,28.0,Male,2024-04-01,2024-03-29,Sports,1,40.46,40.46,Bank Transfer,5
+357,358,John Papadopoulos,Larisa,32.0,Male,2023-12-12,2024-05-22,Electronics,1,113.11,113.11,Paypal,5
+358,359,Eleni Brown,Larisa,47.0,Male,2023-02-21,2024-10-31,Electronics,4,166.81,667.24,Paypal,1
+359,360,John Nikolaou,Heraklion,52.0,Male,2022-09-24,2024-12-20,Clothing,4,9.33,37.32,Paypal,2
+360,361,Eleni Taylor,Heraklion,19.0,Female,2022-03-26,2024-10-08,Sports,6,152.63,915.78,Card,2
+361,362,Dimitris Johnson,Patras,23.0,Male,2022-06-03,2024-06-01,Clothing,4,12.56,50.24,Paypal,4
+362,363,Dimitris Johnson,Thessaloniki,22.0,Male,2024-09-01,2024-10-26,Electronics,2,160.35,320.7,Bank Transfer,4
+363,364,Sophia Taylor,Unknown,32.0,Female,2022-11-22,2024-10-28,Clothing,3,230.64,691.92,Cash,2
+364,365,Sophia Wilson,Thessaloniki,61.0,Female,2022-01-21,2024-04-16,Clothing,3,158.76,476.28,Card,5
+365,366,John Taylor,Larisa,32.0,Male,2022-02-20,2024-09-27,Clothing,1,198.13,198.13,Cash,4
+366,367,Maria Brown,Larisa,38.0,Male,2024-03-12,2024-11-29,Sports,5,108.73,543.65,Card,5
+367,368,George Smith,Heraklion,21.0,Female,2023-06-23,2024-06-05,Clothing,5,89.04,445.2,Cash,4
+368,369,John Johnson,Larisa,52.0,Female,2023-10-20,2024-01-02,Clothing,2,185.05,370.1,Bank Transfer,1
+369,370,Helen Wilson,Thessaloniki,30.0,Female,2022-12-16,2024-09-19,Clothing,4,247.84,991.36,Cash,4
+370,371,Chris Nikolaou,Patras,27.0,Male,2023-08-06,2024-11-07,Books,7,159.92,1119.44,Cash,1
+371,372,Chris Anderson,Unknown,59.0,Male,2022-02-05,2024-03-24,Sports,5,80.69,403.45,Bank Transfer,4
+372,373,Chris Taylor,Thessaloniki,71.0,Female,2022-06-21,2024-06-21,Sports,7,245.65,1719.55,Cash,2
+373,374,Dimitris Anderson,Thessaloniki,64.0,Male,2024-07-06,2024-04-27,Home,3,5.76,17.28,Cash,5
+374,375,Sophia Smith,Larisa,39.0,Female,2023-06-05,2024-09-27,Sports,4,72.28,289.12,Cash,2
+375,376,Chris Papadopoulos,Patras,41.0,Male,2023-11-13,2024-03-12,Home,2,111.43,222.86,Card,1
+376,377,Sophia Wilson,Thessaloniki,43.0,Male,2022-02-19,2024-05-31,Electronics,3,235.26,705.78,Bank Transfer,3
+377,378,Chris Smith,Athens,53.0,Male,2024-05-06,2024-05-25,Books,4,203.07,812.28,Cash,3
+378,379,Sophia Papadopoulos,Patras,53.0,Female,2022-08-30,2024-03-09,Electronics,2,138.27,276.54,Cash,1
+379,380,George Brown,Unknown,52.0,Female,2023-09-23,2024-05-28,Books,4,259.53,1038.12,Cash,1
+380,381,Chris Papadopoulos,Larisa,39.0,Female,2024-09-14,2024-06-08,Home,5,194.38,971.9,Paypal,3
+381,382,Sophia Wilson,Patras,27.0,Female,2023-05-24,2024-09-10,Home,1,120.32,120.32,Paypal,1
+382,383,Sophia Brown,Heraklion,47.0,Female,2023-10-20,2024-11-18,Clothing,3,181.13,543.39,Bank Transfer,2
+383,384,Eleni Taylor,Athens,71.0,Male,2024-01-23,2024-10-06,Clothing,5,216.69,1083.45,Card,4
+384,385,Nikos Taylor,Patras,63.0,Male,2022-04-12,2024-02-11,Clothing,3,182.95,548.85,Unknown,5
+385,386,George Taylor,Larisa,63.0,Male,2022-12-19,2024-06-12,Sports,4,30.27,121.08,Unknown,3
+386,387,Nikos Anderson,Heraklion,26.0,Female,2023-03-01,2024-07-14,Clothing,1,71.86,71.86,Bank Transfer,5
+387,388,Anna Johnson,Larisa,47.0,Female,2023-06-01,2024-01-27,Clothing,4,24.95,99.8,Card,5
+388,389,Dimitris Smith,Athens,25.0,Male,2022-03-08,2024-10-26,Electronics,6,179.88,1079.28,Paypal,5
+389,390,Anna Papadopoulos,Athens,20.0,Male,2023-12-28,2024-06-20,Electronics,6,202.5,1215.0,Cash,2
+390,391,Dimitris Anderson,Athens,55.0,Male,2023-04-16,2024-10-12,Books,1,298.67,298.67,Paypal,4
+391,392,Sophia Smith,Athens,25.0,Female,2023-07-02,2024-11-28,Electronics,6,170.88,1025.28,Card,5
+392,393,Dimitris Nikolaou,Larisa,48.0,Female,2022-07-27,2024-04-15,Electronics,7,64.28,449.96,Paypal,1
+393,394,Anna Brown,Athens,72.0,Male,2024-06-26,2024-05-15,Clothing,4,107.53,430.12,Cash,4
+394,395,Helen Nikolaou,Patras,20.0,Female,2022-12-14,2024-04-24,Sports,6,74.22,445.32,Card,5
+395,396,Eleni Taylor,Heraklion,37.0,Male,2022-10-13,2024-05-28,Clothing,4,76.88,307.52,Bank Transfer,4
+396,397,Maria Smith,Athens,23.0,Female,2024-01-13,2024-10-14,Sports,6,31.29,187.74,Paypal,1
+397,398,Dimitris Anderson,Athens,70.0,Male,2024-01-08,2024-05-21,Clothing,4,235.7,942.8,Card,4
+398,399,Sophia Taylor,Patras,50.0,Male,2023-08-01,2024-12-26,Books,7,82.62,578.34,Card,5
+399,400,George Papadopoulos,Unknown,19.0,Female,2023-03-25,2024-11-26,Home,3,75.52,226.56,Card,3
+400,401,Maria Nikolaou,Larisa,69.0,Male,2022-07-15,2024-11-06,Clothing,6,136.92,821.52,Bank Transfer,3
+401,402,John Papadopoulos,Larisa,39.0,Male,2022-11-12,2024-04-10,Sports,3,174.5,523.5,Card,4
+402,403,Nikos Johnson,Larisa,59.0,Male,2022-02-11,2024-06-14,Books,4,279.53,1118.12,Paypal,2
+403,404,Dimitris Wilson,Heraklion,62.0,Male,2023-11-01,2024-05-13,Electronics,3,203.92,611.76,Bank Transfer,3
+404,405,John Brown,Heraklion,33.0,Male,2022-03-14,2024-06-11,Electronics,7,94.88,664.16,Bank Transfer,2
+405,406,Helen Taylor,Patras,44.0,Male,2022-07-25,2024-10-02,Home,2,70.97,141.94,Paypal,2
+406,407,Sophia Papadopoulos,Patras,27.0,Female,2022-09-10,2024-11-05,Sports,1,174.67,174.67,Cash,1
+407,408,Helen Taylor,Athens,53.0,Female,2022-04-20,2024-12-01,Clothing,7,148.68,1040.76,Card,5
+408,409,Maria Nikolaou,Thessaloniki,69.0,Female,2024-06-20,2024-01-25,Clothing,3,286.08,858.24,Paypal,5
+409,410,Eleni Wilson,Athens,70.0,Male,2024-09-20,2024-01-25,Electronics,2,25.11,50.22,Bank Transfer,4
+410,411,Sophia Wilson,Patras,62.0,Male,2022-05-08,2024-04-05,Clothing,4,234.13,936.52,Card,4
+411,412,Anna Taylor,Heraklion,30.0,Female,2023-10-20,2024-11-11,Electronics,7,154.31,1080.17,Card,5
+412,413,Maria Wilson,Larisa,60.0,Male,2023-10-25,2024-10-13,Books,6,182.75,1096.5,Bank Transfer,3
+413,414,Chris Smith,Patras,22.0,Female,2022-12-11,2024-05-09,Sports,3,61.58,184.74,Card,3
+414,415,Dimitris Papadopoulos,Athens,67.0,Male,2023-04-08,2024-03-23,Sports,5,187.75,938.75,Cash,1
+415,416,Anna Nikolaou,Patras,52.0,Female,2022-07-09,2024-09-19,Sports,5,40.81,204.05,Cash,4
+416,417,Maria Johnson,Heraklion,50.0,Female,2023-07-06,2024-09-29,Sports,4,191.79,767.16,Bank Transfer,5
+417,418,Sophia Brown,Thessaloniki,56.0,Female,2024-03-30,2024-05-03,Clothing,4,95.34,381.36,Paypal,2
+418,419,Helen Papadopoulos,Unknown,54.0,Male,2024-02-07,2024-01-07,Clothing,4,124.42,15000.0,Bank Transfer,3
+419,420,John Taylor,Patras,45.0,Male,2024-01-11,2024-03-26,Home,6,249.12,1494.72,Paypal,5
+420,421,Eleni Taylor,Larisa,72.0,Male,2023-02-09,2024-09-02,Home,2,44.47,88.94,Bank Transfer,5
+421,422,Helen Papadopoulos,Thessaloniki,27.0,Female,2023-02-27,2024-03-05,Clothing,7,45.45,318.15,Paypal,5
+422,423,Eleni Nikolaou,Heraklion,38.0,Male,2022-01-08,2024-06-29,Home,2,76.15,152.3,Paypal,2
+423,424,Nikos Taylor,Patras,54.0,Male,2023-04-10,2024-07-06,Books,5,17.58,87.9,Cash,3
+424,425,Helen Johnson,Larisa,38.0,Male,2023-09-21,2024-10-08,Sports,4,83.48,333.92,Cash,4
+425,426,Sophia Nikolaou,Athens,51.0,Female,2023-08-17,2024-08-19,Sports,4,76.83,307.32,Cash,3
+426,427,Nikos Papadopoulos,Patras,58.0,Male,2023-02-26,2024-02-11,Sports,5,121.37,606.85,Paypal,5
+427,428,Maria Anderson,Larisa,59.0,Female,2022-07-11,2024-01-17,Books,5,44.28,221.4,Paypal,1
+428,429,Dimitris Taylor,Larisa,58.0,Male,2023-07-14,2024-01-29,Home,1,243.62,243.62,Card,1
+429,430,Maria Papadopoulos,Patras,27.0,Male,2024-08-13,2024-08-19,Books,2,16.34,32.68,Card,5
+430,431,Helen Taylor,Patras,45.0,Female,2024-02-15,2024-08-01,Electronics,1,151.16,453.48,Card,1
+431,432,Maria Nikolaou,Thessaloniki,32.0,Male,2024-05-05,2024-06-21,Sports,1,24.66,24.66,Bank Transfer,3
+432,433,Chris Anderson,Larisa,22.0,Male,2022-04-11,2024-01-08,Home,4,156.11,624.44,Card,5
+433,434,Sophia Brown,Patras,25.0,Female,2023-01-20,2024-04-18,Electronics,1,225.13,225.13,Card,3
+434,435,Anna Wilson,Patras,47.0,Female,2023-10-07,2024-05-27,Sports,3,8.57,25.71,Cash,5
+435,436,Dimitris Anderson,Patras,57.0,Female,2022-08-16,2024-05-18,Electronics,2,141.27,282.54,Paypal,4
+436,437,Sophia Wilson,Athens,32.0,Female,2023-06-24,2024-02-20,Electronics,3,200.1,600.3,Card,3
+437,438,John Wilson,Athens,22.0,Male,2022-12-18,2024-01-08,Clothing,5,199.79,998.95,Cash,2
+438,439,Dimitris Johnson,Patras,55.0,Female,2022-08-08,2024-12-02,Sports,7,29.24,204.68,Cash,1
+439,440,Chris Johnson,Thessaloniki,26.0,Female,2024-08-20,2024-02-18,Sports,2,201.87,403.74,Card,4
+440,441,Helen Papadopoulos,Heraklion,21.0,Female,2022-05-08,2024-04-28,Sports,6,25.43,152.58,Card,2
+441,442,George Papadopoulos,Patras,27.0,Male,2024-05-08,2024-09-14,Books,5,41.94,209.7,Card,5
+442,443,Dimitris Johnson,Patras,70.0,Female,2022-10-15,2024-08-13,Clothing,7,158.63,1110.41,Paypal,3
+443,444,Maria Nikolaou,Heraklion,27.0,Female,2023-02-06,2024-07-01,Books,7,37.69,263.83,Paypal,1
+444,445,Helen Taylor,Larisa,42.0,Male,2024-09-11,2024-04-23,Home,3,167.28,501.84,Bank Transfer,4
+445,446,Sophia Johnson,Patras,47.0,Male,2022-10-15,2024-06-22,Clothing,4,40.84,163.36,Bank Transfer,1
+446,447,Maria Papadopoulos,Patras,73.0,Male,2023-06-28,2024-08-09,Clothing,5,89.34,446.7,Bank Transfer,1
+447,448,Anna Taylor,Heraklion,29.0,Male,2022-05-29,2024-05-28,Books,1,165.48,165.48,Paypal,4
+448,449,Chris Johnson,Heraklion,49.0,Male,2023-10-24,2024-08-22,Books,3,99.42,298.26,Cash,1
+449,450,Sophia Nikolaou,Thessaloniki,39.0,Male,2023-04-11,2024-09-14,Home,4,17.74,70.96,Paypal,5
+450,451,Helen Smith,Patras,38.0,Male,2023-07-16,2024-04-04,Sports,7,32.1,224.7,Cash,3
+451,452,George Taylor,Larisa,40.0,Female,2023-11-14,2024-07-07,Sports,4,221.18,884.72,Paypal,1
+452,453,Chris Anderson,Heraklion,73.0,Male,2022-01-19,2024-01-23,Electronics,3,92.78,278.34,Card,5
+453,454,George Nikolaou,Athens,47.0,Female,2022-10-08,2024-05-07,Clothing,7,175.27,1226.89,Bank Transfer,5
+454,455,Anna Anderson,Larisa,64.0,Female,2023-08-07,2024-05-08,Books,2,169.62,339.24,Card,4
+455,456,Helen Brown,Patras,22.0,Female,2022-04-14,2024-08-11,Books,3,297.58,892.74,Card,2
+456,457,Sophia Papadopoulos,Heraklion,51.0,Male,2023-02-09,2024-10-28,Clothing,3,96.72,290.16,Bank Transfer,3
+457,458,John Anderson,Patras,47.0,Female,2022-01-13,2024-03-26,Electronics,2,109.84,219.68,Paypal,2
+458,459,Maria Papadopoulos,Thessaloniki,43.0,Female,2022-07-28,2024-01-14,Books,2,15.42,30.84,Paypal,1
+459,460,Anna Johnson,Thessaloniki,47.0,Male,2023-08-10,2024-08-30,Electronics,5,113.54,567.7,Bank Transfer,3
+460,461,Dimitris Nikolaou,Larisa,54.0,Male,2023-01-16,2024-05-11,Home,2,113.65,227.3,Bank Transfer,4
+461,462,Nikos Nikolaou,Larisa,27.0,Male,2024-03-15,2024-08-17,Clothing,6,179.95,1079.7,Paypal,5
+462,463,John Nikolaou,Thessaloniki,71.0,Male,2022-02-07,2024-09-16,Clothing,7,5.95,41.65,Cash,4
+463,464,Eleni Papadopoulos,Heraklion,74.0,Female,2022-04-29,2024-03-11,Clothing,5,32.43,162.15,Bank Transfer,4
+464,465,Chris Taylor,Heraklion,47.0,Male,2024-01-11,2024-12-01,Electronics,6,218.4,1310.4,Paypal,2
+465,466,Dimitris Nikolaou,Athens,72.0,Female,2024-05-02,2024-01-24,Sports,4,170.39,681.56,Bank Transfer,2
+466,467,Helen Smith,Athens,47.0,Female,2022-07-07,2024-02-29,Home,2,182.63,365.26,Card,3
+467,468,Dimitris Taylor,Unknown,66.0,Female,2023-02-10,2024-05-31,Clothing,7,27.73,194.11,Paypal,5
+468,469,Nikos Wilson,Patras,29.0,Female,2022-04-27,2024-12-21,Books,6,294.68,1768.08,Unknown,3
+469,470,Helen Anderson,Patras,65.0,Male,2022-07-02,2024-04-22,Electronics,5,48.5,242.5,Card,1
+470,471,Sophia Smith,Athens,35.0,Male,2024-02-02,2024-09-07,Sports,7,70.08,490.56,Paypal,3
+471,472,John Taylor,Thessaloniki,74.0,Male,2022-06-10,2024-07-16,Home,4,93.34,373.36,Cash,4
+472,473,Nikos Brown,Patras,37.0,Female,2023-12-11,2024-02-16,Electronics,7,39.91,279.37,Bank Transfer,4
+473,474,Anna Smith,Heraklion,28.0,Female,2023-02-04,2024-11-20,Clothing,7,173.7,1215.9,Paypal,1
+474,475,Maria Brown,Athens,69.0,Male,2024-02-10,2024-04-16,Sports,5,294.0,1470.0,Card,1
+475,476,Anna Papadopoulos,Larisa,47.0,Female,2023-12-11,2024-12-02,Electronics,6,178.01,1068.06,Card,3
+476,477,Eleni Brown,Heraklion,62.0,Male,2023-03-02,2024-02-04,Sports,3,282.5,847.5,Card,2
+477,478,George Taylor,Athens,68.0,Male,2024-07-21,2024-02-18,Electronics,5,253.37,1266.85,Bank Transfer,5
+478,479,Eleni Nikolaou,Thessaloniki,27.0,Female,2023-08-25,2024-09-16,Clothing,5,213.28,1066.4,Cash,2
+479,480,Maria Smith,Larisa,52.0,Male,2023-09-04,2024-11-21,Sports,1,235.16,235.16,Bank Transfer,1
+480,481,George Johnson,Heraklion,71.0,Female,2022-07-07,2024-02-26,Clothing,6,185.02,1110.12,Card,4
+481,482,Maria Johnson,Athens,41.0,Female,2024-07-14,2024-12-29,Home,1,287.2,287.2,Paypal,2
+482,483,Eleni Johnson,Athens,47.0,Female,2022-06-12,2024-08-07,Electronics,6,82.2,493.2,Cash,2
+483,484,Dimitris Nikolaou,Athens,33.0,Female,2023-12-30,2024-07-23,Clothing,6,131.52,789.12,Cash,4
+484,485,Chris Nikolaou,Athens,26.0,Male,2023-09-11,2024-03-24,Sports,5,256.66,1283.3,Paypal,2
+485,486,Maria Papadopoulos,Heraklion,60.0,Female,2023-11-21,2024-01-07,Books,1,107.05,107.05,Card,2
+486,487,Eleni Wilson,Thessaloniki,47.0,Female,2023-10-17,2024-07-17,Books,3,289.2,867.6,Paypal,5
+487,488,Eleni Johnson,Heraklion,59.0,Male,2024-06-14,2024-05-21,Electronics,2,128.54,257.08,Card,1
+488,489,John Nikolaou,Thessaloniki,54.0,Male,2023-08-04,2024-05-10,Electronics,2,293.97,587.94,Paypal,2
+489,490,Dimitris Nikolaou,Larisa,54.0,Female,2024-05-06,2024-12-06,Sports,1,141.86,141.86,Unknown,4
+490,491,Maria Johnson,Patras,74.0,Female,2022-06-27,2024-04-26,Home,5,38.66,193.3,Card,4
+491,492,Dimitris Papadopoulos,Thessaloniki,59.0,Female,2022-10-16,2024-03-21,Sports,1,255.93,255.93,Card,5
+492,493,Nikos Taylor,Thessaloniki,51.0,Male,2023-11-12,2024-03-26,Clothing,4,218.23,872.92,Card,1
+493,494,Chris Brown,Heraklion,34.0,Male,2022-07-17,2024-04-07,Home,2,29.11,58.22,Cash,1
+494,495,Maria Smith,Thessaloniki,27.0,Male,2022-01-22,2024-04-21,Clothing,5,46.58,232.9,Paypal,1
+495,496,Eleni Nikolaou,Unknown,19.0,Female,2024-05-29,2024-05-04,Clothing,2,141.38,282.76,Bank Transfer,4
+496,497,Maria Smith,Patras,41.0,Female,2024-08-13,2024-02-28,Home,7,156.19,1093.33,Card,2
+497,498,Nikos Brown,Heraklion,52.0,Female,2024-08-17,2024-02-01,Books,3,236.95,710.85,Bank Transfer,5
+498,499,John Anderson,Larisa,37.0,Male,2024-05-27,2024-08-01,Home,2,102.41,204.82,Cash,5
+499,500,Nikos Brown,Larisa,32.0,Male,2024-02-21,2024-06-16,Clothing,6,52.68,316.08,Unknown,2
