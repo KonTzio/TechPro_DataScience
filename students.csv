@@ -1,0 +1,52 @@
+Name,Subject,Grade,Score
+John,Science,C,65
+John,Math,A,91
+John,History,B,74
+John,English,C,65
+Mary,Physical Education,B,70
+Mary,Art,C,60
+Mary,History,B,73
+Mary,English,D,53
+Mary,Math,C,65
+Mary,Science,B,79
+Joe,Geography,C,66
+Joe,History,C,65
+Joe,Physical Education,A,88
+Joe,Math,F,27
+Joe,Music,C,62
+Joe,English,C,64
+Joe,Art,A,98
+Mike,Music,B,71
+Mike,English,D,58
+Mike,Science,B,77
+Mike,Physical Education,A,96
+Mike,Geography,C,69
+Mike,History,B,76
+Sara,Music,A,84
+Sara,Geography,F,43
+Sara,History,A,90
+Sara,Science,A,98
+Peter,English,A,85
+Peter,Physical Education,F,31
+Peter,Geography,B,74
+Peter,Science,B,70
+Amy,Geography,C,64
+Amy,English,C,62
+Amy,Art,A,95
+Amy,Science,C,69
+Amy,Physical Education,F,15
+Tom,Art,C,65
+Tom,Physical Education,B,78
+Tom,Science,A,96
+Tom,Music,B,78
+Tom,Math,C,65
+Tom,English,A,82
+Tom,History,A,98
+Lisa,Science,D,55
+Lisa,English,B,71
+Lisa,Physical Education,B,72
+Lisa,Math,C,62
+Dan,Art,B,77
+Dan,Science,C,65
+Dan,Geography,B,77
+Dan,History,A,95
