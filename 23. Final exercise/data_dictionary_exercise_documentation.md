@@ -1,6 +1,6 @@
-# E-Commerce Performance Dataset - Student Visual Analytics Exercise
+# E-Commerce Performance Dataset
 
-As a Junior Data Analyst, you have been provided with four clean, analysis-ready datasets reflecting various operational areas of an online retail company. All datasets cover a unified business context, but each is self-contained so you can choose one or more datasets to build your visualization dashboard.
+As a Data Analyst, you have been provided with four clean, analysis-ready datasets reflecting various operational areas of an online retail company. All datasets cover a unified business context, but each is self-contained so you can choose one or more datasets to build your visualization dashboard.
 
 ---
 
