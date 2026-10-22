@@ -1,0 +1,26 @@
+product_name,category,units_sold,avg_selling_price,total_revenue,avg_rating
+Wireless Earbuds,Electronics,955,145.26,138723.3,4.0
+Smart Watch,Electronics,535,123.56,66104.6,4.0
+Bluetooth Speaker,Electronics,1105,54.04,59714.2,3.9
+Laptop Stand,Electronics,426,25.48,10854.48,4.7
+USB-C Hub,Electronics,609,106.42,64809.78,4.0
+Denim Jacket,Apparel,171,72.74,12438.54,3.9
+Graphic Tee,Apparel,402,28.84,11593.68,4.3
+Running Shoes,Apparel,897,80.33,72056.01,3.7
+Hoodie,Apparel,1006,16.75,16850.5,4.6
+Yoga Pants,Apparel,624,137.49,85793.76,3.6
+Air Fryer,Home & Kitchen,660,47.71,31488.6,4.9
+Coffee Maker,Home & Kitchen,849,103.43,87812.07,4.6
+Blender,Home & Kitchen,1125,55.02,61897.5,3.8
+Non-Stick Pan,Home & Kitchen,339,83.77,28398.03,3.5
+Desk Lamp,Home & Kitchen,1107,87.45,96807.15,4.6
+Python Data Guide,Books,836,37.51,31358.36,4.5
+Sci-Fi Novel,Books,1107,145.8,161400.6,4.5
+Cookbook,Books,712,118.97,84706.64,4.6
+Self-Help Journal,Books,981,141.65,138958.65,3.6
+History Hardcover,Books,796,135.49,107850.04,4.0
+Face Serum,Beauty & Care,170,94.51,16066.7,3.7
+Sunscreen SPF 50,Beauty & Care,990,139.22,137827.8,4.7
+Moisturizer,Beauty & Care,316,24.21,7650.36,4.4
+Hair Dryer,Beauty & Care,537,39.05,20969.85,4.0
+Lip Balm Pack,Beauty & Care,750,18.24,13680.0,3.6
