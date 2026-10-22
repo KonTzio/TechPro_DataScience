@@ -6,7 +6,6 @@ As a Data Analyst, you have been provided with four clean, analysis-ready datase
 
 ## 1. `monthly_sales.csv`
 * **Overview**: Aggregated monthly high-level financial and customer growth metrics covering a 1-year operating period (12 records).
-* **Best Suited For**: Time series line plots, dual-axis trend analysis, customer acquisition tracking, and sales revenue monitoring.
 
 ### Data Dictionary
 
@@ -23,7 +22,6 @@ As a Data Analyst, you have been provided with four clean, analysis-ready datase
 
 ## 2. `product_sales.csv`
 * **Overview**: Product-level performance summary comparing sales velocity, pricing, total revenue, and product reviews across multiple retail categories (25 records).
-* **Best Suited For**: Top/bottom performance bar charts, pricing vs. sales scatter plots, and category comparison plots.
 
 ### Data Dictionary
 
@@ -40,7 +38,6 @@ As a Data Analyst, you have been provided with four clean, analysis-ready datase
 
 ## 3. `customer_data.csv`
 * **Overview**: Customer demographic and purchasing behavior details sampled across major metropolitan markets (150 records).
-* **Best Suited For**: Histograms of customer age/spending, scatter plots comparing orders vs. spending, and geographic comparisons.
 
 ### Data Dictionary
 
@@ -57,7 +54,6 @@ As a Data Analyst, you have been provided with four clean, analysis-ready datase
 
 ## 4. `daily_website.csv`
 * **Overview**: Daily digital marketing and website engagement performance indicators spanning a 90-day period (90 records).
-* **Best Suited For**: Marketing ROI scatter plots, daily visitor trend lines, conversion tracking, and campaign performance comparisons.
 
 ### Data Dictionary
 
